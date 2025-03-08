@@ -23,4 +23,6 @@ curl https://api.openai.com/v1/chat/completions \
     ],
     "max_tokens": 60
   }'
+
+jupyter notebook                                 #Open a jupyter notebook to test the openai api
 ```
